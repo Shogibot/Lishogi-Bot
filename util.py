@@ -70,4 +70,4 @@ def makesfenfromfen(fen) -> str:
     if(fen == "startpos"):
         return fen
     return fixColor(fixPocket(fixPosition(fen)))
-    
+    game.opponent.name
