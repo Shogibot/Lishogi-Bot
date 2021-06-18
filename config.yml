@@ -4,6 +4,8 @@ url: "https://lidraughts.org/"  # lishogi base URL
 engine:                      # engine settings
   dir: "./engines/"          # dir containing engines, relative to this project
   name: "sf"                 # binary name of the engine to use
+  fairyname: "fsf"
+  lcname: "lsf"
   protocol: "usi"            # "usi"
 # engine_options:           # any custom command line params to pass to the engine
 #   cpuct: 3.1
