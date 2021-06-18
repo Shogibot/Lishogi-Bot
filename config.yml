@@ -3,7 +3,7 @@ url: "https://lishogi.org/"  # lishogi base URL
 
 engine:                      # engine settings
   dir: "./engines/"          # dir containing engines, relative to this project
-  name: "YaneuraOu-by-gcc"                 # binary name of the engine to use
+  name: "sf"                 # binary name of the engine to use
   fairyname: "fsf"
   lcname: "lsf"
   protocol: "usi"            # "usi"
