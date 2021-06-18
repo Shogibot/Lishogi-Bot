@@ -1,11 +1,9 @@
-token: "1Isymb35EDzDxr9g"    # lishogi OAuth2 Token with 'play as bot' enabled
+token: "Y76sjwGlkTaPFE8n"    # lishogi OAuth2 Token with 'play as bot' enabled
 url: "https://lidraughts.org/"  # lishogi base URL
 
 engine:                      # engine settings
   dir: "./engines/"          # dir containing engines, relative to this project
   name: "sf"                 # binary name of the engine to use
-  fairyname: "fsf"
-  lcname: "lsf"
   protocol: "usi"            # "usi"
 # engine_options:           # any custom command line params to pass to the engine
 #   cpuct: 3.1
